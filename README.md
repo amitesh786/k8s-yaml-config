@@ -80,7 +80,7 @@ To run the demo:
 
 ## 🧑‍💻 Developer Setup
 - Clone the repository:
-- git clone ``
+- git clone `https://github.com/amitesh786/k8s-yaml-config.git`
 
 ## 👨‍💻 Author Amitesh Singh – [GitHub](https://github.com/amitesh786)
 - Feel free to contribute or suggest improvements! 🙌
