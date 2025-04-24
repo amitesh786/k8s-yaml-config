@@ -75,8 +75,8 @@ A working `root` is included in the `/root` directory with:
 - Instructions to apply configs using kubectl
 
 To run the demo:
-`kubectl apply -f demo/`
-`kubectl get all`
+- `kubectl apply -f demo/`
+- `kubectl get all`
 
 ## 🧑‍💻 Developer Setup
 - Clone the repository:
