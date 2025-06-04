@@ -79,9 +79,9 @@ To run the demo:
 - `kubectl apply -f demo/`
 - `kubectl get all`
 
-## 🧑‍💻 Developer Setup
+## Developer Setup
 - Clone the repository:
 - git clone `https://github.com/amitesh786/k8s-yaml-config.git`
 
-## 👨‍💻 Author Amitesh Singh – [GitHub](https://github.com/amitesh786)
-- Feel free to contribute or suggest improvements! 🙌
+## Author Amitesh Singh – [GitHub](https://github.com/amitesh786)
+- Feel free to contribute or suggest improvements!
